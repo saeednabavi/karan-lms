@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="250" fill="url(#bg)"/>
+  <circle cx="200" cy="95" r="40" fill="none" stroke="#ffffff" stroke-width="3" opacity="0.8"/>
+  <ellipse cx="200" cy="95" rx="40" ry="14" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
+  <ellipse cx="200" cy="95" rx="14" ry="40" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
+  <text x="200" y="170" font-family="Tahoma,Arial,sans-serif" font-size="22" font-weight="bold" fill="#d1fae5" text-anchor="middle">Science</text>
+</svg>
